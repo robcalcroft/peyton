@@ -5,4 +5,4 @@ peyton
 
 1. Load the HS file using GHC, type `main` to start the program
 
-*NB - if you have issues saving to the txt file, `chmod 777` it!*
+**NB - if you have issues saving to the txt file, `chmod 777` it!**
